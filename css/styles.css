@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cornflowerblue;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: brown;
+}
+
+nav {
+    background-color: whitesmoke;
+}
+
+section {
+    background-color: yellowgreen;
+}
+
+article {
+    background-color: rosybrown;
+}
+
+aside {
+    background-color: gold;
+}
+
+footer {
+    background-color: powderblue;
+}
+
+.altura1 {
+    height: 10vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+.altura3 {
+    height: 70vh;
+}
+
+.altura4 {
+    height: 10vh;
+}
