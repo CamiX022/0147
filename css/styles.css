@@ -22,6 +22,7 @@ section {
 
 article {
     background-color: rosybrown;
+    height: 70%;
 }
 
 aside {
@@ -33,7 +34,7 @@ footer {
 }
 
 .altura1 {
-    height: 10vh;
+    height:;
 }
 
 .altura2 {
